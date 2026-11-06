@@ -16,7 +16,7 @@ def home():
         <h1>Welcome to Python Project</h1>
         <h2>Jenkins Deployment</h2>
         <p>Flask Application Successfully Deployed!</p>
-        <h2>Version 2.0.0</h2>
+        <h2>Version 3.0.0</h2>
     </body>
     </html>
     """
